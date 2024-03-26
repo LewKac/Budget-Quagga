@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BudgetQuagga</string>
+    <string name="submit">submit</string>
+
+    <string name="mainBackgroundDescription">Image used in main activity</string>
+    <string name="mainNewBudget">New Budget</string>
+    <string name="mainNewExpense">New Expense</string>
+    <string name="mainBudgetOverview">Budget Overview</string>
+    <string name="mainBudgetHistory">All Budget History</string>
+    <string name="mainSettings">Settings</string>
+    <string name="mainMap">Map</string>
+    <string name="mainSpendometer">Spendometer</string>
+    <string name="mainRefresh">Refresh</string>
+
+    <string name="newBudgetBackgroundDescription">Image used in new budget activity</string>
+    <string name="newBudgetChooseDate">Budget length:</string>
+    <string name="newBudgetStartDate">Length</string>
+    <string name="newBudgetTotalAmount">Total amount:</string>
+    <string name="newBudgetWriteAmountHere">Write amount here</string>
+    <string name="newBudgetNOTE">Note: when writing months, please use format \n{Specify format here}</string>
+
+    <string name="newExpenseBackgroundDescription">Image used in new expense activity</string>
+    <string name="newExpenseAmount">Amount:</string>
+    <string name="newExpenseCategory">Category:</string>
+    <string name="newExpenseDescription">Description:</string>
+    <string name="newExpenseDescriptionHere">Description (optional)</string>
+    <string name="newExpenseNewCategory">Add New Category</string>
+
+
+    <string name="budgetOverviewBackgroundDescription">Image used in budget overview activity</string>
+    <string name="budgetOverviewSpentMoney">Spent money:</string>
+    <string name="budgetOverviewUnspentMoney">Remaining money:</string>
+    <string name="budgetOverviewTotalMoney">Total money:</string>
+
+    <string name="categoryNewCategoryName">Category name</string>
+    <string name="categoryNewCategoryColor">Category color</string>
+
+    <string name="spendometerarrow">spendometerArrow</string>
+    <string name="thisisabackground">thisIsABackground</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="settingsBackgroundPicture">Image used in Settings activity</string>
+    <string name="settingsResetButton">Reset whole database</string>
+</resources>
